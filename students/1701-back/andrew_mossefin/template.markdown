@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Andrew Mossefin - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I had not written any sort of code in over a decade, so my main purpose for module 1 was to get comfortable with the basic concepts and structure of writting code (that isn't html). I also wanted to try and work on getting into more of a growth mindset, even before that concept was introduced in class, because I have been extremely stubborn when trying to learn in the past about asking for help from others or accepting failiure in order to learn from it.
 
 ## Rubric Scores
 
